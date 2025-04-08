@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Keylogge: Dark Mode GUI Keylogger
+# 🕵️‍♂️ Keylogger: Dark Mode GUI Keylogger
 
 A Python-based keylogger with a modern **dark-themed GUI**, designed for educational and ethical research purposes only. It allows real-time keystroke logging, log viewing, and log management — all through an intuitive interface.
 
